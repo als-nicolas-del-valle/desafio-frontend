@@ -1,0 +1,198 @@
+{
+  "books": [
+    {
+      "id": 25,
+      "title": "Include other week hair",
+      "year": 1995,
+      "available": false,
+      "authorId": 10,
+      "authorName": "Kelly Santos",
+      "genre": "Historia",
+      "isbn": "978-0-8457-0800-2",
+      "description": "Oil win claim hot spring century. Crime spring politics notice very item right. Happen go play plan some make. Individual letter community standard. General yard few.",
+      "image": "https://picsum.photos/seed/book25/200/300"
+    },
+    {
+      "id": 26,
+      "title": "Article person call girl",
+      "year": 2016,
+      "available": false,
+      "authorId": 6,
+      "authorName": "Heather Fuller",
+      "genre": "Terror",
+      "isbn": "978-0-240-40254-3",
+      "description": "Next particular we we would wall. Appear seek upon success performance rock reason. Commercial author join phone magazine. Region space take religious account various.",
+      "image": "https://picsum.photos/seed/book26/200/300"
+    },
+    {
+      "id": 27,
+      "title": "Respond rich energy",
+      "year": 1974,
+      "available": false,
+      "authorId": 5,
+      "authorName": "Donna Levine",
+      "genre": "Misterio",
+      "isbn": "978-1-69621-409-4",
+      "description": "Of voice senior feel certain. Training assume rich board. Child suffer red here.",
+      "image": "https://picsum.photos/seed/book27/200/300"
+    },
+    {
+      "id": 28,
+      "title": "Capital notice",
+      "year": 2012,
+      "available": true,
+      "authorId": 7,
+      "authorName": "Tyler Jordan",
+      "genre": "Romance",
+      "isbn": "978-0-01-684654-0",
+      "description": "Already site national into federal partner about. Boy white environmental again outside position region stage. Red common you.",
+      "image": "https://picsum.photos/seed/book28/200/300"
+    },
+    {
+      "id": 29,
+      "title": "Bring never particularly morning phone",
+      "year": 1984,
+      "available": true,
+      "authorId": 10,
+      "authorName": "Kelly Santos",
+      "genre": "Fantasía",
+      "isbn": "978-0-609-06316-3",
+      "description": "Hospital cultural mention bank. Control certain step central loss. Party sport reflect through parent.",
+      "image": "https://picsum.photos/seed/book29/200/300"
+    },
+    {
+      "id": 80,
+      "title": "Respond rich energy",
+      "year": 1974,
+      "available": false,
+      "authorId": 5,
+      "authorName": "Donna Levine",
+      "genre": "Misterio",
+      "isbn": "978-1-69621-409-4",
+      "description": "Of voice senior feel certain. Training assume rich board. Child suffer red here.",
+      "image": "https://picsum.photos/seed/book27/200/300"
+    },
+    {
+      "id": 90,
+      "title": "Respond rich energy",
+      "year": 1974,
+      "available": false,
+      "authorId": 5,
+      "authorName": "Donna Levine",
+      "genre": "Misterio",
+      "isbn": "978-1-69621-409-4",
+      "description": "Of voice senior feel certain. Training assume rich board. Child suffer red here.",
+      "image": "https://picsum.photos/seed/book27/200/300"
+    },
+    {
+      "id": 9120,
+      "title": "Respond rich energy",
+      "year": 1974,
+      "available": false,
+      "authorId": 5,
+      "authorName": "Donna Levine",
+      "genre": "Misterio",
+      "isbn": "978-1-69621-409-4",
+      "description": "Of voice senior feel certain. Training assume rich board. Child suffer red here.",
+      "image": "https://picsum.photos/seed/book27/200/300"
+    },
+    {
+      "id": 188,
+      "title": "Juan antonio el libro re loco",
+      "year": 2025,
+      "available": true,
+      "authorId": 2,
+      "authorName": "juan antoinio",
+      "genre": "Accion",
+      "isbn": "1241222",
+      "description": "El libro de juan antonio que cuenta historias re locas",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocErq1QEBqh8nni6H9Kfxa9teMfXSpg0jzQ&s"
+    },
+    {
+      "id": 123456,
+      "title": "El rey leon",
+      "year": 1995,
+      "available": true,
+      "authorId": 1,
+      "authorName": "Max",
+      "genre": "Tragediaq",
+      "isbn": "123456",
+      "description": "Prueba",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AcwEb2Y3J8DU9y7xSn-d9Ll4G4InTbMe9Q&s"
+    },
+    {
+      "id": 122,
+      "title": "Holis",
+      "year": 2000,
+      "available": true,
+      "authorId": 12,
+      "authorName": "333",
+      "genre": "4",
+      "isbn": "ff",
+      "description": "no",
+      "image": "1"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Shane Nguyen",
+      "image": "https://randomuser.me/api/portraits/men/11.jpg",
+      "bio": "Autor de ciencia ficción contemporánea, apasionado por la inteligencia artificial y la filosofía tecnológica."
+    },
+    {
+      "id": 2,
+      "name": "John Ortega",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "bio": "Escritor de novelas policiacas y thrillers, conocido por su estilo ágil y giros inesperados."
+    },
+    {
+      "id": 3,
+      "name": "Jeremy Weber",
+      "image": "https://randomuser.me/api/portraits/men/13.jpg",
+      "bio": "Poeta y ensayista especializado en temas de identidad, naturaleza y espiritualidad moderna."
+    },
+    {
+      "id": 4,
+      "name": "Andrew Norris",
+      "image": "https://randomuser.me/api/portraits/men/14.jpg",
+      "bio": "Historiador y novelista, ha publicado extensamente sobre conflictos bélicos del siglo XX."
+    },
+    {
+      "id": 5,
+      "name": "Kristina Walker",
+      "image": "https://randomuser.me/api/portraits/women/15.jpg",
+      "bio": "Autora de literatura juvenil, celebrada por su representación honesta de temas adolescentes."
+    },
+    {
+      "id": 6,
+      "name": "Megan Williams",
+      "image": "https://randomuser.me/api/portraits/women/16.jpg",
+      "bio": "Novelista romántica con un enfoque moderno y feminista, combina drama con humor agudo."
+    },
+    {
+      "id": 7,
+      "name": "Elijah Oneill",
+      "image": "https://randomuser.me/api/portraits/men/17.jpg",
+      "bio": "Periodista y autor de no ficción, especializado en política internacional y derechos humanos."
+    },
+    {
+      "id": 8,
+      "name": "Melinda Heath",
+      "image": "https://randomuser.me/api/portraits/women/18.jpg",
+      "bio": "Escritora de fantasía épica, conocida por sus mundos ricos en detalles y personajes fuertes."
+    },
+    {
+      "id": 9,
+      "name": "Mr. Drew Holmes",
+      "image": "https://randomuser.me/api/portraits/men/19.jpg",
+      "bio": "Cuentista experimental, sus obras juegan con el lenguaje y la estructura narrativa."
+    },
+    {
+      "id": 10,
+      "name": "Adam Berg",
+      "image": "https://randomuser.me/api/portraits/men/20.jpg",
+      "bio": "Autor de divulgación científica, su objetivo es hacer accesible la física moderna a todos."
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-import { BrowserRouter, Routes, Route } from "react-router";
+import { Routes, Route } from "react-router";
+import { LibraryPage, BookPage, AuthorsPage } from "./pages";
 
 function Router() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/home" element={<div>Hola</div>} />
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+      <Route path="/books" element={<LibraryPage />} />
+      <Route path="/book/:bookId" element={<BookPage />} />
+      <Route path="/authors" element={<AuthorsPage />} />
+    </Routes>
   );
 }
 
